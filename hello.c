@@ -1,4 +1,5 @@
 #include <stdio.h>
+void demo();
 int  main()
 {
     printf("hello world\n");
@@ -10,5 +11,7 @@ int  main()
     {
         printf("%d\n",i);
     }
+    demo();
+    
     return 0;
 }
