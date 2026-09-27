@@ -13,6 +13,8 @@ int  main()
     }
 
     demo();
+
+    printf("fork1\n");
     
 
     return 0;
