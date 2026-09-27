@@ -10,5 +10,7 @@ int  main()
     {
         printf("%d\n",i);
     }
+
+    printf("test3\n");
     return 0;
 }
